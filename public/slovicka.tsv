@@ -1,0 +1,82 @@
+形態	けいたい	Forma
+機能	きのう	funkce
+意味	いみ	význam
+単語	たんご	Slovo
+定義	ていぎ	Definice
+述語	じゅつご	Přísudek
+品詞	ひんし	Slovní druh
+名詞	めいし	Podstatné jméno
+普通名詞	ふつうめいし	Běžná (podstatná jména)
+固有名詞	こゆうめいし	Vlastní (podstatná jména)
+形式名詞	けいしきめいし	Pomocná (podstatná jména)
+動名詞	どうめいし	Kategoriální sloveso 名詞+する
+代名詞	だいめいし	Zájmeno
+動詞	どうし	Sloveso
+助動詞	じょどうし	Pomocné sloveso (př. -られる)
+助詞	じょし	Partikule
+格助詞	かくじょし	Jednoduché pádové partikule 名詞につく助詞（か、と、や、だの、の）
+副助詞	ふくじょし	Jednoduché vytýkací partikule（ばかり、など、くらい、も、だけ）
+接続助詞	せつぞくし	Spojovací partikule （ながら、ば、と、ても、ので、から、て）
+終助詞	しゅうじょし	Koncové partikule（ね、よ、か、かな）
+複合助詞	ふくごうじょし	Složené partikule
+付属語	ふぞくご	Synsématické ? Partikule, která spojuje dvě samostatná slova
+副詞	ふくし	Příslovce
+様態系	ようたいけい	Příslovce vyjadřující způsob
+保険系	ほけんけい	Příslovce vyjadřující míru
+陳述系	ちんじゅつけい	Modální příslovce (jsou vázány na určitý tvar slovesa; př. ぜひ)
+連体詞	れんたいし	Přívlastek 形が変わらず、名詞のみを修飾するものである。
+接続詞	せつぞくし	Spojka
+感動詞	かんどうし	Citoslovce
+用言	ようげん	Ohebné slovo (dá se skloňovat)
+活用（する）	かつよう	Časování 動詞や形容詞など、述語になる語がその機能に応じて形を変えることである。
+形容詞（い）；形容動詞（な）	けいようし；けいようどうし	Přídavné jméno
+情態性形容詞	じょうたいせいけいようし	Situační př. jm. (cokoli v podmětu)「大きい、白い」
+情意性形容詞	じょういせいけいようし	Pocitové př. jm. (podmět 1. osoba)「～しい」
+連体修飾	れんたいしゅうしょく	
+複数	ふくすう	Množné číslo
+発音	はつおん	Výslovost
+語彙的	ごいてき	Lexikální
+形態	けいたい	Morf
+形態素	けいたいそ	Morfém (abstraktní nositel věcn./gram. významu)
+異形態	いけいたい	Alomorf (změna zvuku, zachování významu)
+連濁	れんだく	Změna z neznělého na znělý
+接頭辞	せっとうじ	Prefix/ předpona
+接尾辞	せつびじ	Sufix/ přípona
+接辞	せつじ	Prefixy a sufixy
+派生語	はせいご	Odvozená slova
+複合語	ふくごうご	Složená slova
+単純語	たんじゅんご	Jednoduchá slova (může stát samostatně)
+語幹	ごかん	Kmen slova (kořen + fonetická změna)
+語根	ごこん	Kořen slova
+一体性	いったいせい	Lexikální integrita = Nelze odkazovat na/ rozvíjet jen část slova
+音便	おんびん	Hláskové změny
+促音	そくおん	”っ”
+主要部	しゅようぶ	Hlava (určuje syntaktickou kategorii; pravá strana složeniny)
+構造	こうぞう	Struktura (構造言語学)
+補助後	ほじょご	Náhradí pomocné slovo
+可能動詞	かのうどうし	Sloveso v potenciálu
+ら抜き	らぬき	Odstranění ら (Slovesa)
+未然形	みぜんけい	”ない/～おう” form (Slovesa)
+連用形	れんようけい	”ます” forma (Slovesa)
+連体形	れんたいけい	Spojovací forma (Slovesa)
+終止形	しゅうしけい	Slovníková forma (Slovesa)
+仮定刑	かていけい	Hypotetická forma (moderní japonština) ～ば tvar (Slovesa)
+命令形	めいれいけい	Rozkazovací forma (Slovesa)
+各成分	かくせいぶん	To, co sloveso ve větě vyžaduje・が、を、に
+余剰成分	よじょうせいぶん	Jmenná fráze, přes pádovou partikuli (nebudou to příslovce) で 、から、まで、より
+格	かく	Pád
+	ボイス	Rod
+直接受け身	ちょくせつうけみ	Přímý trpný rod (太郎は先生に褒められた。)
+迷惑受け身	めいわくうけみ	Nepříjemné ovlivnění
+持ち主受け身	もちぬしうけみ	太郎は台風に家を流された。
+	アスペクト	Vid (dokonavý, nedokonavý)
+動作動詞	どうさどうし	Činnost probíhá dlouho (u slovesa)
+変化動詞	へんかどうし	Jednorázová činnost (u slovesa)
+存在動詞	そんざいどうし	ある、いる
+属性動詞	ぞくせいどうし	Vlastnost
+	テンス	Čas (minulý, neminulý)
+	モダリティ	Modalita
+方向、移動 	ほうこう、いどう	Směr, pohyb (くる、いく)
+意志性	いしせい	Záměr
+	やりもらい	Dostat (てあげる、てもらう)
+敬語	けいご	Zdvořilost
